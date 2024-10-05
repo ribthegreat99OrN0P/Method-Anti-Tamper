@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{CACF8EDD-2492-4E50-8E6E-C9A5D51C6BBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tamper", "tamper\tamper.csproj", "{548A9F8A-37B0-431E-8608-7C941FC6566E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CACF8EDD-2492-4E50-8E6E-C9A5D51C6BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CACF8EDD-2492-4E50-8E6E-C9A5D51C6BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CACF8EDD-2492-4E50-8E6E-C9A5D51C6BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CACF8EDD-2492-4E50-8E6E-C9A5D51C6BBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{548A9F8A-37B0-431E-8608-7C941FC6566E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{548A9F8A-37B0-431E-8608-7C941FC6566E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{548A9F8A-37B0-431E-8608-7C941FC6566E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{548A9F8A-37B0-431E-8608-7C941FC6566E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C002AD32-F7C3-46AB-9299-04BEAAD17383}
+	EndGlobalSection
+EndGlobal
