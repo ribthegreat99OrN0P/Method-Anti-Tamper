@@ -1,8 +1,7 @@
 # Method Anti Tamper
 
 ### A lightweight tamper detection system for .NET applications
-
-**TamperCheck** is a tamper detection mechanism that verifies the integrity of your application's code by checking method opcodes at runtime. If tampering is detected, the system sets an environment variable that prevents the application from running, even if the modifications are reverted.
+This is a tamper detection mechanism that verifies the integrity of your application's code by checking method opcodes at runtime. If tampering is detected, the system sets an environment variable that prevents the application from running, even if the modifications are reverted.
 
 ---
 
